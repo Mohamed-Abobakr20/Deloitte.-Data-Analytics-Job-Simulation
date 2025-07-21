@@ -44,6 +44,6 @@ We have processed all data on employee compensation and generated an Excel file 
 
 > Steps To Make The Task
 - Create a 4th column (Equality class), classifying the equality score into 3 types:
--- Fair (+-10)
--- Unfair (<-10 AND >10)
--- Highly Discriminative (<-20 AND >20)
+  - Fair (+-10)
+  - Unfair (<-10 AND >10)
+  - Highly Discriminative (<-20 AND >20)
