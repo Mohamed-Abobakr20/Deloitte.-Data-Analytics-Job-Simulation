@@ -1,6 +1,12 @@
 # Deloitte. Data Analytics Job Simulation
 
-## Task 1
+## Skills Needed
+- Data Analysis
+- Data Modeling
+- Spreadsheets
+- Tableau
+
+### Task 1
 > Summary
 
 Using a data unification algorithm, the tech team at our client, Daikibo, has converted all telemetry data collected from its 4 factories:
@@ -16,11 +22,6 @@ The reason the client wanted to collect telemetry was to answer 2 questions:
 - In which location did machines break the most?
 - What are the machines that broke most often in that location?
 
-> Skills
-- Data Analysis
-- Data Modeling
-- Spreadsheets
-- Tableau
 
 > Steps To Make The Task
 - Create a calculated measure field called "Unhealthy" with a value of 10 for every unhealthy status (representing 10 mins of potential down time since the previous message).
@@ -30,7 +31,7 @@ The reason the client wanted to collect telemetry was to answer 2 questions:
 - Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
 
 
-## Task 2
+### Task 2
 > Summary
 
 After a worrisome number of internal complaints about gender inequality in terms of salary, Daikibo Industrials wants us to help them investigate.
