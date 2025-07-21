@@ -6,7 +6,7 @@
 - Spreadsheets
 - Tableau
 
-### Task 1
+## Task 1
 > Summary
 
 Using a data unification algorithm, the tech team at our client, Daikibo, has converted all telemetry data collected from its 4 factories:
@@ -31,7 +31,7 @@ The reason the client wanted to collect telemetry was to answer 2 questions:
 - Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
 
 
-### Task 2
+## Task 2
 > Summary
 
 After a worrisome number of internal complaints about gender inequality in terms of salary, Daikibo Industrials wants us to help them investigate.
