@@ -28,3 +28,22 @@ The reason the client wanted to collect telemetry was to answer 2 questions:
 - Create a new sheet with a new bar chart called “Down Time per Device Type”.
 - Create a Dashboard with the 2 previous sheets and set the first chart to be used as a filter (selecting a factory in the first chart shows only the down time of the machines in this factory in the second chart).
 - Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
+
+
+## Task 2
+> Summary
+
+After a worrisome number of internal complaints about gender inequality in terms of salary, Daikibo Industrials wants us to help them investigate.
+
+The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most job roles within the company, in all company locations. Our Forensics lead thinks it would be a great idea for you to finish the job.
+
+We have processed all data on employee compensation and generated an Excel file (Equality Table.xlsx, available in the Resources) containing 3 columns:
+- Factory
+- Job Role
+- Equality Score (integer; ranging between -100 and +100; 0 is ideal)
+
+> Steps To Make The Task
+- Create a 4th column (Equality class), classifying the equality score into 3 types:
+-- Fair (+-10)
+-- Unfair (<-10 AND >10)
+-- Highly Discriminative (<-20 AND >20)
