@@ -50,3 +50,7 @@ We have processed all data on employee compensation and generated an Excel file 
   - Highly Discriminative (<-20 AND >20)
 - Equation used to create the column:
   - =IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative")) 
+
+
+## Certificate
+[Cetificate Link] (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_y9Dy5LPgce5fx3XAk_1752954876353_completion_certificate.pdf)
